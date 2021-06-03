@@ -2,4 +2,4 @@
 
 Simple ANN model created with a Bank Churning Dataset
 
-PArt of DeepLearning A-Z course on Udemy
+Part of DeepLearning A-Z course on Udemy
